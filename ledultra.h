@@ -13,7 +13,7 @@ Class LED
     int _pin;
 }
 
-Class LEDultra
+/*Class LEDultra
 {
   public:
     LEDultra(int a, int b, int c, int d, int e, int f, int g, int h, int i);
@@ -28,6 +28,6 @@ Class LEDultra
     int _g;
     int _h;
     int _i;
-}
+}*/
 
 #endif
