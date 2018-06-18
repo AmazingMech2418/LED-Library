@@ -1,9 +1,9 @@
-#ifndef ledultra_h
-#define ledultra_h
+#ifndef LEDultra_h
+#define LEDultra_h
 
 #include "Arduino.h"
 
-Class ledultraclass
+Class LEDultraclass
 {
 
 }
